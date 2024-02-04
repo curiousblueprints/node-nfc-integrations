@@ -2,3 +2,4 @@ node_modules/
 /coverage
 usersettings.json
 actionConfig.json
+test.js
